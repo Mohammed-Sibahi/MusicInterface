@@ -1,0 +1,15 @@
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\bin\Debug\net6.0\MusicInterface.exe
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\bin\Debug\net6.0\MusicInterface.deps.json
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\bin\Debug\net6.0\MusicInterface.runtimeconfig.json
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\bin\Debug\net6.0\MusicInterface.dll
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\bin\Debug\net6.0\MusicInterface.pdb
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\obj\Debug\net6.0\MusicInterface.csproj.AssemblyReference.cache
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\obj\Debug\net6.0\MusicInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\obj\Debug\net6.0\MusicInterface.AssemblyInfoInputs.cache
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\obj\Debug\net6.0\MusicInterface.AssemblyInfo.cs
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\obj\Debug\net6.0\MusicInterface.csproj.CoreCompileInputs.cache
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\obj\Debug\net6.0\MusicInterface.dll
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\obj\Debug\net6.0\refint\MusicInterface.dll
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\obj\Debug\net6.0\MusicInterface.pdb
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\obj\Debug\net6.0\MusicInterface.genruntimeconfig.cache
+C:\Users\sibah\source\repos\MusicInterface\MusicInterface\obj\Debug\net6.0\ref\MusicInterface.dll
